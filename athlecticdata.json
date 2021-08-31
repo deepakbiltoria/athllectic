@@ -1,0 +1,91 @@
+[
+  {
+    "day":{"title":"MONDAY","subtitle": "ULTIMATE ARMS: Firing Range"},
+    "body":{"heading":"How to Perform Today’s Ultimate Arm Workout -","context": "Choose a weight that you would normally use to reach failure at 10-12 regular reps\nand perform the set using 1 1/2 reps. This should cause you to reach failure within the 5-7 rep range. Upon reaching failure, immediately\ncut the weight in half and proceed into the second half of the set. Here; you will attempt to complete at least twice as many reps as you\ndid in the first half, before reaching failure. Remember, the rest time between halves of the doubling set is just as long as it takes you to\ncut the weight in half. 60 second rest is allowed between completed doubling sets.\nYour rest time within Doubling Sets is just enough time to cut the weight in half and transition into the second half of the set.\nRest time between completed Doubling Sets is 60 seconds."},
+    "workout_1": {
+      "title": "BICEPS : ",
+      "excercise_1": {
+        "heading":
+        "No Mo Curls x","context":" 5-7 reps (1 1/2 reps) / Transition Rest / x 10-14 more reps (cut weight in half and attempt to double initial reps) - 3 SETS"
+      },
+      "excercise_2": {
+        "heading":
+        "DB Spider Curls x","context":" 5-7 reps (1 1/2 reps) / Transition Rest / x 10-14 more reps (cut weight in half and attempt to double initial reps) - 3 SETS"
+      },
+      "excercise_3": {
+        "heading":
+        "DB Hammer Curls x","context":" 5-7 reps (1 1/2 reps) / Transition Rest / x 10-14 more reps (cut weight in half and attempt to double initial reps) - 3 SETS"
+      }
+    },
+    "workout_2": {
+      "title": "TRICEPS : ",
+      "excercise_1": {
+        "heading":
+        "Elbows Tucked DB Bench Press x","context":" 5-7 reps (1 1/2 reps) / Transition Rest / x 10-14 more reps (cut weight In half and attempt to double initial\nreps) - 3 SETS"
+      },
+      "excercise_2": {
+        "heading":
+        "Inverted DB Tricep Kickbacks x","context":" 5-7 reps (1 1/2 reps) / Transition Rest / x 10-14 more reps (cut weight in half and attempt to double initial\nreps) - 3 SETS"
+      },
+      "excercise_3": {
+        "heading":
+        "Incline DB Tricep X-tensions x","context":" 5-7 reps (1 1/2 reps) / Transition Rest / x 10-14 more reps (cut weight in half and attempt to double initial reps)\n- 3 SETS"
+      }
+    }
+
+  },
+  {
+    "day":{"title":"TUESDAY","subtitle": "C-4 Burst Training (The Pit)"},
+    "body":{"heading":"How to Perform Today’s C-4 Burst Workout -","context": " In today’s workout, you will experience the unique conditioning and forearm blitz known\nas C-4, first hand by alternating between the forearm/grip reliant dead arm hang and a jump rope drill. If at any time during any round you\nare unable to hang for the required time you will find yourself in “the pit”. Only way out, is to work your way out! Perform 100 Finger Tip\nMountain Climbers and it’s back to the bar to complete your hang…and your workout! Should your grip slip again, you’ll earn another trip to\nthe pit and have to climb out yet again. Will you conquer “The Pit” or will it just become the pits for you?"},
+    "instructions": ["COMPLETE THE FOLLOWING CIRCUIT:","REST 2 MINUTES AND REPEAT ONE MORE TIME THROUGH."],
+    "workout_1": {
+      "title": "ROUND 1 : ",
+      "excercise_1": {
+        "heading":
+        "Dead Arm Hang x","context":" 90 seconds "
+      },"excercise_2": {
+        "heading":
+        "Jump Rope - ","context":" Two Foot Hops x 100 reps\nREST 30 SECOND"
+      }
+
+    },
+    "workout_2": {
+      "title": "ROUND 2: : ",
+      "excercise_1": {
+        "heading":
+        "Dead Arm Hang x","context":" 60 seconds"
+      },"excercise_2": {
+        "heading":
+        "Jump Rope - ","context":" High Knees x 50 reps each leg Or \nTwo Foot Hops x 100 reps\nREST 30 SECONDS"
+      }
+    },
+      "workout_3": {
+        "title": "ROUND 3:\n ",
+        "excercise_1": {
+          "heading":
+          "Dead Arm Hang x",
+          "context":" 45 seconds"
+        },
+        "excercise_2": {
+          "heading":
+          "Jump Rope -",
+          "context":" High Knees x 50 reps each leg /\nRope Squats x 25 reps\nREST 30 SECONDS"
+        }
+
+      },
+        "workout_4": {
+        "title": "ROUND 4:\n",
+        "excercise_1": {
+          "heading":
+          "Dead Arm Hang x\n","context":" 30 seconds"
+        },
+          "excercise_2": {
+            "heading":
+            "Jump Rope -",
+            "context":" High Knees x 50 reps each leg / Rope Squats x 25\nreps/ Double Unders x 25 reps / Two Foot Hops x 100 reps"
+          },
+          "note": "Each time you are unable to complete your dead arm hang without releasing the bar, you’ll need to perform 100 finger tip mountain\nclimbers and then resume your position on the bar for the remaining time. All jump rope reps must be completed before moving on to the\nbar. There is no penalty for hitting the rope, however you should aim to complete all jumps without ever doing so.\njac"
+
+        }
+  }
+]
